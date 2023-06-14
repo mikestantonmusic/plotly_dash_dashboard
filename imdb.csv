@@ -33,7 +33,7 @@
 31,Malignant,2021,6.3,53310,Crime; Horror; Mystery,111,Film,R,-,None,Severe,Moderate,None,Severe
 32,Wolf,2021,4.1,229,Drama; Mystery; Thriller,98,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 33,La casa de papel,2021,8.2,393487,Action; Crime; Drama,70,Series,TV-MA,41,Moderate,Moderate,Moderate,Mild,Moderate
-34,"Tick, Tick... Boom!",2021,0.0,0,Biography; Drama; Musical,115,Film,PG-13,-,No Rate,No Rate,No Rate,No Rate,No Rate
+34,Tick Tick... Boom!,2021,0.0,0,Biography; Drama; Musical,115,Film,PG-13,-,No Rate,No Rate,No Rate,No Rate,No Rate
 35,The Night House,2020,6.5,14936,Horror; Mystery; Thriller,107,Film,R,-,Mild,Moderate,Moderate,Moderate,Severe
 36,Succession,2020,8.7,66106,Drama,60,Series,TV-MA,29,Moderate,Mild,Severe,Moderate,None
 37,La Brea,2020,5.2,3198,Drama; Mystery; Sci-Fi,0,Series,TV-14,5,None,Mild,No Rate,Mild,Mild
@@ -364,7 +364,7 @@
 362,Bob's Burgers,2014,8.1,71250,Animation; Comedy,22,Series,TV-PG,222,Mild,Mild,Mild,Mild,None
 363,Truth Be Told,2014,7.1,9465,Crime; Drama; Mystery,45,Series,TV-MA,18,Mild,No Rate,Moderate,No Rate,No Rate
 364,Virgin River,2014,7.4,30823,Drama; Romance,44,Series,TV-14,32,Mild,Mild,Mild,Mild,Mild
-365,"If I Can't Have Love, I Want Power",2021,7.0,1061,Drama; Fantasy; Horror,53,Film,R,-,Severe,Moderate,Mild,Mild,Mild
+365,If I Can't Have Love I Want Power,2021,7.0,1061,Drama; Fantasy; Horror,53,Film,R,-,Severe,Moderate,Mild,Mild,Mild
 366,SEAL Team,2021,7.6,19476,Action; Drama; War,43,Series,TV-14,94,None,Moderate,Moderate,Mild,Moderate
 367,Poltergeist,1982,7.3,152037,Horror; Thriller,114,Film,PG,-,Mild,Moderate,Mild,Moderate,Severe
 368,The Silence of the Lambs,1991,8.6,1336681,Crime; Drama; Thriller,118,Film,R,-,Moderate,Severe,Moderate,None,Severe
@@ -407,7 +407,7 @@
 405,Inglourious Basterds,2009,8.3,1338008,Adventure; Drama; War,153,Film,R,-,Mild,Severe,Severe,Mild,Severe
 406,CODA,2021,8.1,21506,Drama; Music,111,Film,PG-13,-,Mild,None,Moderate,Mild,None
 407,The Goonies,1985,7.8,256589,Adventure; Comedy; Family,114,Film,PG,-,Mild,Mild,Moderate,Mild,Mild
-408,"Murder, She Wrote",1985,7.0,21413,Crime; Drama; Mystery,50,Series,TV-PG,264,None,Mild,Mild,Mild,Mild
+408,Murder She Wrote,1985,7.0,21413,Crime; Drama; Mystery,50,Series,TV-PG,264,None,Mild,Mild,Mild,Mild
 409,The Fifth Element,1997,7.7,450359,Action; Adventure; Sci-Fi,126,Film,PG-13,-,Moderate,Mild,Mild,Mild,Mild
 410,The L Word: Generation Q,1997,7.4,5061,Drama,55,Series,TV-MA,18,Severe,None,Severe,Severe,Mild
 411,Once Upon a Time in America,1984,8.3,330699,Crime; Drama,229,Film,R,-,Severe,Severe,Severe,Severe,Severe
@@ -733,7 +733,7 @@
 731,Never Have I Ever,1963,7.8,39948,Comedy; Drama,30,Series,TV-14,21,Mild,None,Mild,Mild,None
 732,The Good Fight,1963,8.3,23452,Crime; Drama,45,Series,TV-MA,51,Moderate,No Rate,Moderate,Mild,Mild
 733,Dear White People,1963,6.2,24125,Comedy; Drama,30,Series,TV-MA,40,Moderate,No Rate,Moderate,Moderate,No Rate
-734,"Roswell, New Mexico",1963,6.3,10566,Drama; Romance; Sci-Fi,45,Series,TV-14,42,Mild,Moderate,Mild,Mild,Mild
+734,Roswell New Mexico,1963,6.3,10566,Drama; Romance; Sci-Fi,45,Series,TV-14,42,Mild,Moderate,Mild,Mild,Mild
 735,Sweet Tooth,1963,7.9,43329,Action; Adventure; Drama,0,Series,TV-14,16,None,Mild,Mild,None,Mild
 736,Pose,1963,8.6,25107,Drama,60,Series,TV-MA,26,Moderate,Mild,Severe,Severe,Mild
 737,Dawson's Creek,1963,6.7,39015,Drama; Romance,60,Series,TV-14,128,Mild,Mild,Mild,Mild,Mild
@@ -786,14 +786,14 @@
 784,Snowpiercer,2014,6.9,41412,Action; Drama; Sci-Fi,60,Series,TV-MA,31,Moderate,Severe,Moderate,Mild,Moderate
 785,Last Man Standing,2014,7.5,31648,Comedy,30,Series,TV-PG,194,None,None,Mild,Mild,No Rate
 786,Narcos: México,2014,8.4,66885,Crime; Drama,50,Series,TV-MA,29,Severe,Severe,Severe,Severe,Severe
-787,"Love, Death & Robots",2014,8.5,124835,Animation; Short; Action,15,Series,TV-MA,26,Severe,Severe,Severe,Moderate,Moderate
+787,Love Death & Robots,2014,8.5,124835,Animation; Short; Action,15,Series,TV-MA,26,Severe,Severe,Severe,Moderate,Moderate
 788,Harry Potter and the Chamber of Secrets,2002,7.4,584281,Adventure; Family; Fantasy,161,Film,PG,-,None,Mild,Mild,None,Moderate
 789,Mythic Quest: Raven's Banquet,2002,7.7,17366,Comedy,30,Series,TV-MA,20,Mild,Mild,Severe,Mild,None
 790,Saw,2004,7.6,398328,Horror; Mystery; Thriller,103,Film,R,-,Mild,Severe,Severe,Mild,Severe
 791,Good Will Hunting,1997,8.3,903784,Drama; Romance,126,Film,R,-,Mild,Mild,Severe,Mild,Mild
 792,Halloween: Resurrection,2002,4.0,40340,Horror; Thriller,94,Film,R,-,Mild,Severe,Severe,Mild,Moderate
 793,Psycho,1960,8.5,632885,Horror; Mystery; Thriller,109,Film,R,-,Mild,Moderate,None,None,Moderate
-794,"Doogie Kamealoha, M.D.",1960,5.8,1023,Comedy; Drama; Family,30,Series,TV-PG,10,No Rate,No Rate,No Rate,No Rate,No Rate
+794,Doogie Kamealoha M.D.,1960,5.8,1023,Comedy; Drama; Family,30,Series,TV-PG,10,No Rate,No Rate,No Rate,No Rate,No Rate
 795,Hacksaw Ridge,2016,8.1,470213,Biography; Drama; History,139,Film,R,-,Mild,Severe,Mild,Mild,Severe
 796,The Revenant,2015,8.0,745279,Action; Adventure; Drama,156,Film,R,-,Mild,Severe,Moderate,Mild,Severe
 797,Fear Street: 1978,2021,6.7,50405,Drama; Horror; Mystery,109,Film,R,-,Moderate,Severe,Moderate,Moderate,Severe
@@ -889,7 +889,7 @@
 887,There Will Be Blood,2007,8.2,546904,Drama,158,Film,R,-,None,Moderate,Mild,Mild,Moderate
 888,Maleficent,2014,7.0,358078,Action; Adventure; Family,97,Film,PG,-,None,Moderate,None,None,Mild
 889,Cars,2006,7.1,388952,Animation; Adventure; Comedy,117,Film,G,-,None,None,Mild,None,Mild
-890,"Beverly Hills, 90210",2006,6.4,32848,Drama; Romance,44,Series,TV-PG,292,Mild,Mild,Mild,Moderate,Moderate
+890,Beverly Hills 90210,2006,6.4,32848,Drama; Romance,44,Series,TV-PG,292,Mild,Mild,Mild,Moderate,Moderate
 891,Designated Survivor,2006,7.5,83143,Action; Drama; Mystery,60,Series,TV-14,53,Moderate,Mild,Moderate,Mild,Mild
 892,Oz,2006,8.7,93783,Crime; Drama; Thriller,55,Series,TV-MA,56,Severe,Severe,Severe,Severe,Severe
 893,Premonition,2007,5.9,75465,Drama; Fantasy; Mystery,96,Film,PG-13,-,None,Mild,Mild,None,Mild
@@ -966,7 +966,7 @@
 964,Vacation Friends,2021,6.3,14822,Adventure; Comedy,103,Film,R,-,Mild,Mild,Severe,Severe,None
 965,Snatch,2000,8.3,813924,Comedy; Crime,104,Film,R,-,Mild,Moderate,Severe,Mild,Mild
 966,Black Sails,2000,8.2,98066,Adventure; Drama,56,Series,TV-MA,38,Severe,Severe,Severe,Moderate,Severe
-967,"Il buono, il brutto, il cattivo",1966,8.8,720032,Western,161,Film,R,-,None,Moderate,Mild,Mild,Moderate
+967,Il buono il brutto il cattivo,1966,8.8,720032,Western,161,Film,R,-,None,Moderate,Mild,Mild,Moderate
 968,The Notebook,2004,7.8,542082,Drama; Romance,123,Film,PG-13,-,Moderate,Mild,Mild,Mild,Mild
 969,Castlevania,2004,8.3,55247,Animation; Action; Adventure,23,Series,TV-MA,32,Moderate,Severe,Severe,Mild,Severe
 970,The Hobbit: An Unexpected Journey,2012,7.8,782308,Adventure; Fantasy,169,Film,PG-13,-,None,Moderate,None,Mild,Moderate
@@ -1298,7 +1298,7 @@
 1296,Minari,2020,7.5,61889,Drama,115,Film,PG-13,-,None,None,Mild,Mild,Mild
 1297,The Strain,2020,7.3,77922,Drama; Fantasy; Horror,43,Series,TV-MA,46,Mild,Severe,Moderate,Moderate,Severe
 1298,Final Destination 2,2003,6.2,159109,Horror; Thriller,90,Film,R,-,Moderate,Severe,Moderate,Moderate,Moderate
-1299,"Three Billboards Outside Ebbing, Missouri",2017,8.1,468173,Comedy; Crime; Drama,115,Film,R,-,Mild,Moderate,Severe,Moderate,Moderate
+1299,Three Billboards Outside Ebbing Missouri,2017,8.1,468173,Comedy; Crime; Drama,115,Film,R,-,Mild,Moderate,Severe,Moderate,Moderate
 1300,Rogue One,2016,7.8,582140,Action; Adventure; Sci-Fi,133,Film,PG-13,-,None,Moderate,None,None,Moderate
 1301,Now You See Me,2013,7.2,622412,Crime; Mystery; Thriller,115,Film,PG-13,-,Mild,Mild,Mild,Mild,Mild
 1302,American Hustle,2013,7.2,462992,Crime; Drama,138,Film,R,-,Moderate,Mild,Severe,Moderate,Mild
@@ -1433,7 +1433,7 @@
 1431,Dirty John,1998,7.2,19007,Crime; Drama,44,Series,TV-14,16,Mild,Mild,Mild,Mild,Moderate
 1432,The Terror,1998,7.9,41518,Adventure; Drama; History,60,Series,TV-14,20,Mild,Severe,Mild,Mild,Severe
 1433,Fargo,1996,8.1,644973,Crime; Drama; Thriller,98,Film,R,-,Moderate,Severe,Severe,Mild,Moderate
-1434,"Love, Victor",1996,8.1,12263,Comedy; Drama; Romance,30,Series,TV-14,21,Mild,None,Mild,Mild,None
+1434,Love Victor,1996,8.1,12263,Comedy; Drama; Romance,30,Series,TV-14,21,Mild,None,Mild,Mild,None
 1435,The Help,2011,8.0,440341,Drama,146,Film,PG-13,-,None,Mild,Mild,Mild,Mild
 1436,Munich,2005,7.5,219774,Action; Drama; History,164,Film,R,-,Moderate,Severe,Moderate,Mild,Severe
 1437,I Spit on Your Grave,2010,6.3,80557,Horror; Thriller,108,Film,R,-,Severe,Severe,Severe,Moderate,Severe
@@ -1492,7 +1492,7 @@
 1490,La vita è bella,1997,8.6,654219,Comedy; Drama; Romance,116,Film,PG-13,-,None,Mild,None,Mild,Moderate
 1491,Van Helsing,1997,6.2,20576,Action; Drama; Fantasy,43,Series,TV-14,65,Mild,Severe,Moderate,Mild,Severe
 1492,Bud Abbott Lou Costello Meet Frankenstein,1948,7.4,16974,Comedy; Family; Fantasy,83,Film,Not Rated,-,None,Mild,None,Mild,Mild
-1493,"Monsters, Inc.",2001,8.1,853277,Animation; Adventure; Comedy,92,Film,G,-,None,Mild,None,None,Mild
+1493,Monsters Inc.,2001,8.1,853277,Animation; Adventure; Comedy,92,Film,G,-,None,Mild,None,None,Mild
 1494,Back to Life,2001,7.5,4249,Comedy; Drama,30,Series,TV-MA,12,Moderate,Moderate,Severe,Mild,Mild
 1495,Falling for Figaro,2020,6.1,263,Comedy; Romance,104,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 1496,Sonic the Hedgehog,2020,6.5,106840,Action; Adventure; Comedy,99,Film,PG,-,None,Mild,Mild,Mild,Mild
@@ -1508,7 +1508,7 @@
 1506,Room,2015,8.1,394244,Drama; Thriller,118,Film,R,-,Mild,Mild,Moderate,Mild,Moderate
 1507,District 9,2009,7.9,656442,Action; Sci-Fi; Thriller,112,Film,R,-,Mild,Severe,Severe,Mild,Severe
 1508,Degrassi: The Next Generation,2009,7.4,12723,Drama; Romance,30,Series,TV-PG,385,Mild,Moderate,Mild,Moderate,Moderate
-1509,"Magnum, P.I.",2009,7.5,23800,Action; Adventure; Crime,48,Series,TV-PG,158,Mild,Moderate,Mild,Mild,Mild
+1509,Magnum P.I.,2009,7.5,23800,Action; Adventure; Crime,48,Series,TV-PG,158,Mild,Moderate,Mild,Mild,Mild
 1510,Kingdom of Heaven,2005,7.2,276066,Action; Adventure; Drama,144,Film,R,-,Mild,Severe,Mild,Mild,Moderate
 1511,Cosmic Sin,2021,2.5,10329,Action; Adventure; Sci-Fi,88,Film,R,-,Mild,Moderate,Moderate,Mild,Moderate
 1512,G.I. Joe: The Rise of Cobra,2009,5.8,204827,Action; Adventure; Sci-Fi,118,Film,PG-13,-,None,Moderate,Mild,Mild,Mild
@@ -1571,7 +1571,7 @@
 1569,Argo,2012,7.7,591671,Biography; Drama; Thriller,120,Film,R,-,Mild,Moderate,Severe,Mild,Moderate
 1570,Ad Astra,2019,6.5,215183,Adventure; Drama; Mystery,123,Film,PG-13,-,None,Moderate,Mild,None,Moderate
 1571,Tropic Thunder,2008,7.0,395461,Action; Comedy; War,107,Film,R,-,Mild,Severe,Severe,Moderate,Mild
-1572,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,6.9,379614,Adventure; Family; Fantasy,143,Film,PG,-,None,Moderate,None,None,Moderate
+1572,The Chronicles of Narnia: The Lion the Witch and the Wardrobe,2005,6.9,379614,Adventure; Family; Fantasy,143,Film,PG,-,None,Moderate,None,None,Moderate
 1573,Happy Days,2005,7.4,17491,Comedy; Family; Music,30,Series,TV-G,255,None,Mild,None,Mild,None
 1574,The Talented Mr. Ripley,1999,7.4,196652,Crime; Drama; Thriller,139,Film,R,-,Mild,Moderate,Mild,Mild,Moderate
 1575,Sherlock Holmes,2009,7.6,604389,Action; Adventure; Mystery,128,Film,PG-13,-,Mild,Moderate,Mild,Mild,Moderate
@@ -1739,7 +1739,7 @@
 1737,Hot Fuzz,2007,7.8,483256,Action; Comedy; Mystery,121,Film,R,-,Mild,Severe,Moderate,Mild,Moderate
 1738,Bumblebee,2018,6.7,151586,Action; Adventure; Sci-Fi,114,Film,PG-13,-,None,Moderate,Mild,None,Mild
 1739,Rent,2005,6.9,50204,Drama; Musical; Romance,135,Film,PG-13,-,Moderate,Mild,Moderate,Severe,Mild
-1740,"Crazy, Stupid, Love.",2011,7.4,493130,Comedy; Drama; Romance,118,Film,PG-13,-,Mild,Mild,Moderate,Mild,None
+1740,Crazy Stupid Love.,2011,7.4,493130,Comedy; Drama; Romance,118,Film,PG-13,-,Mild,Mild,Moderate,Mild,None
 1741,Russian Doll,2011,7.8,75247,Adventure; Comedy; Drama,30,Series,TV-MA,16,Mild,Moderate,Severe,Severe,Mild
 1742,Crash,2004,7.7,427802,Crime; Drama; Thriller,112,Film,R,-,Moderate,Moderate,Severe,Mild,Moderate
 1743,Sseulsseulhago Chalranhashin: Dokkaebi,2004,8.6,15484,Comedy; Drama; Fantasy,60,Series,TV-14,16,None,No Rate,No Rate,No Rate,No Rate
@@ -1798,7 +1798,7 @@
 1796,Taking the Reins,2021,6.4,438,Comedy; Drama; Romance,84,Film,TV-G,-,None,None,None,None,None
 1797,Children of Men,2006,7.9,480503,Action; Sci-Fi; Thriller,109,Film,R,-,Mild,Severe,Severe,Mild,Severe
 1798,Extinct,2021,5.2,919,Animation; Adventure; Comedy,84,Film,TV-Y7,-,Mild,No Rate,No Rate,No Rate,No Rate
-1799,"Rise and Shine, Benedict Stone",2021,7.0,225,Drama,84,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
+1799,Rise and Shine Benedict Stone,2021,7.0,225,Drama,84,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 1800,Gwoemul,2006,7.1,114759,Action; Drama; Horror,120,Film,R,-,None,Moderate,Moderate,Mild,Moderate
 1801,The Babysitter: Killer Queen,2020,5.8,33318,Comedy; Horror,101,Film,TV-MA,-,Mild,Severe,Severe,Mild,Moderate
 1802,The Incredible Hulk,2008,6.6,457441,Action; Adventure; Sci-Fi,112,Film,PG-13,-,Mild,Moderate,Mild,Mild,Moderate
@@ -1852,7 +1852,7 @@
 1850,Bad Boys for Life,2020,6.6,144833,Action; Comedy; Crime,124,Film,R,-,None,Severe,Severe,Mild,Mild
 1851,The Trial of the Chicago 7,2020,7.8,159365,Drama; History; Thriller,129,Film,R,-,None,Moderate,Moderate,Mild,Mild
 1852,Moonlight,2016,7.4,289612,Drama,111,Film,R,-,Moderate,Moderate,Severe,Moderate,Moderate
-1853,"Lock, Stock and Two Smoking Barrels",1998,8.2,556418,Action; Comedy; Crime,107,Film,R,-,Moderate,Severe,Severe,Moderate,Mild
+1853,Lock Stock and Two Smoking Barrels,1998,8.2,556418,Action; Comedy; Crime,107,Film,R,-,Moderate,Severe,Severe,Moderate,Mild
 1854,The Day After Tomorrow,2004,6.4,430215,Action; Adventure; Sci-Fi,124,Film,PG-13,-,None,Moderate,Mild,Mild,Moderate
 1855,2 Broke Girls,2004,6.6,93543,Comedy,22,Series,TV-14,138,Moderate,None,Moderate,Moderate,None
 1856,It Comes at Night,2017,6.2,88923,Horror; Mystery; Sci-Fi,91,Film,R,-,Mild,Moderate,Moderate,None,Severe
@@ -1930,7 +1930,7 @@
 1928,Dark Waters,2019,7.6,74353,Biography; Drama; History,126,Film,PG-13,-,Mild,Mild,Mild,None,Moderate
 1929,Tangled,2010,7.7,424386,Animation; Adventure; Comedy,100,Film,PG,-,None,Mild,None,Mild,Mild
 1930,The Pursuit of Happyness,2006,8.0,474940,Biography; Drama,117,Film,PG-13,-,None,None,Mild,Mild,Mild
-1931,"Dr. Quinn, Medicine Woman",2006,6.8,11097,Drama; Family; Western,60,Series,TV-G,149,Mild,Mild,Mild,No Rate,Mild
+1931,Dr. Quinn Medicine Woman,2006,6.8,11097,Drama; Family; Western,60,Series,TV-G,149,Mild,Mild,Mild,No Rate,Mild
 1932,Blood Diamond,2006,8.0,520730,Adventure; Drama; Thriller,143,Film,R,-,Mild,Severe,Moderate,Moderate,Severe
 1933,Galaxy Quest,1999,7.3,157279,Adventure; Comedy; Sci-Fi,102,Film,PG,-,Mild,Mild,Mild,Mild,Mild
 1934,Star Wars: Episode III - Revenge of the Sith,2005,7.5,739675,Action; Adventure; Fantasy,140,Film,PG-13,-,None,Moderate,None,None,Moderate
@@ -2144,7 +2144,7 @@
 2142,General Hospital,1998,6.5,4668,Crime; Drama; Romance,60,Series,TV-PG,6955,Moderate,Moderate,Mild,Moderate,Moderate
 2143,Lights Out,2016,6.3,122266,Drama; Horror; Mystery,81,Film,PG-13,-,Mild,Moderate,Mild,Mild,Severe
 2144,Phantasm,1979,6.7,34703,Horror; Sci-Fi,89,Film,R,-,Moderate,Moderate,Mild,Mild,Moderate
-2145,"Love, Simon",2018,7.6,106511,Comedy; Drama; Romance,110,Film,PG-13,-,Mild,None,Mild,Mild,None
+2145,Love Simon,2018,7.6,106511,Comedy; Drama; Romance,110,Film,PG-13,-,Mild,None,Mild,Mild,None
 2146,101 Dalmatians,1996,5.7,107992,Adventure; Comedy; Crime,103,Film,G,-,None,Mild,None,Mild,Mild
 2147,Halloweentown High,2004,6.2,6773,Comedy; Family; Fantasy,82,Film,TV-G,-,None,Mild,None,None,Mild
 2148,Absentia,2004,7.3,14038,Crime; Drama; Mystery,60,Series,TV-MA,30,Moderate,Moderate,Mild,Mild,Moderate
@@ -2187,7 +2187,7 @@
 2185,Coming 2 America,2021,5.3,62610,Comedy,110,Film,PG-13,-,Moderate,None,Moderate,Mild,None
 2186,Megamind,2010,7.2,241536,Animation; Action; Comedy,95,Film,PG,-,None,Mild,None,None,Mild
 2187,Victoria,2010,8.2,24570,Biography; Drama; History,60,Series,TV-PG,25,Mild,None,None,Mild,Mild
-2188,"Extremely Wicked, Shockingly Evil and Vile",2019,6.7,86573,Biography; Crime; Drama,110,Film,R,-,Moderate,Moderate,Moderate,Moderate,Moderate
+2188,Extremely Wicked Shockingly Evil and Vile,2019,6.7,86573,Biography; Crime; Drama,110,Film,R,-,Moderate,Moderate,Moderate,Moderate,Moderate
 2189,Independence Day: Resurgence,2016,5.2,173070,Action; Adventure; Sci-Fi,120,Film,PG-13,-,None,Moderate,Mild,None,Moderate
 2190,The Misfits,2021,4.2,6665,Action; Adventure; Thriller,94,Film,R,-,Mild,Moderate,Moderate,Moderate,Mild
 2191,The Night Clerk,2020,5.5,13405,Crime; Drama; Mystery,90,Film,R,-,Mild,Moderate,Mild,Mild,Mild
@@ -2243,7 +2243,7 @@
 2241,Run Hide Fight,2020,6.4,19392,Crime; Drama; Thriller,109,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 2242,Minamata,2020,7.7,13890,Drama,115,Film,R,-,Mild,Mild,Severe,Moderate,Moderate
 2243,Leave It to Beaver,2020,7.5,7402,Comedy; Family,30,Series,TV-G,235,None,Mild,None,Mild,None
-2244,"I, Robot",2004,7.1,516161,Action; Drama; Sci-Fi,115,Film,PG-13,-,Mild,Moderate,Moderate,Mild,Moderate
+2244,I Robot,2004,7.1,516161,Action; Drama; Sci-Fi,115,Film,PG-13,-,Mild,Moderate,Moderate,Mild,Moderate
 2245,Unbroken,2014,7.2,158105,Action; Biography; Drama,137,Film,PG-13,-,Mild,Severe,Moderate,Mild,Moderate
 2246,Big Eyes,2014,7.0,89585,Biography; Crime; Drama,106,Film,PG-13,-,None,Mild,Mild,Moderate,Mild
 2247,Snowden,2016,7.3,145988,Biography; Crime; Drama,134,Film,R,-,Moderate,Mild,Moderate,Mild,None
@@ -2378,7 +2378,7 @@
 2376,Utopia,2020,6.7,12329,Action; Drama; Mystery,55,Series,TV-MA,8,Mild,Severe,Moderate,Mild,Moderate
 2377,How the West Was Won,1962,7.1,19878,Western,164,Film,G,-,None,Mild,None,Mild,Mild
 2378,The Goes Wrong Show,1962,8.5,1598,Comedy,29,Series,TV-PG,12,Mild,Mild,Mild,Mild,Mild
-2379,"Girl, Interrupted",1999,7.3,173524,Biography; Drama,127,Film,R,-,Mild,Moderate,Severe,Moderate,Moderate
+2379,Girl Interrupted,1999,7.3,173524,Biography; Drama,127,Film,R,-,Mild,Moderate,Severe,Moderate,Moderate
 2380,GLOW,1999,8.0,43122,Comedy; Drama; Sport,35,Series,TV-MA,30,Severe,Mild,Severe,Moderate,None
 2381,Santa Clarita Diet,1999,7.8,61510,Comedy; Horror,30,Series,TV-MA,30,Mild,Severe,Severe,Mild,Moderate
 2382,Panic Room,2002,6.8,269667,Crime; Drama; Thriller,112,Film,R,-,None,Severe,Severe,Mild,Severe
@@ -2447,7 +2447,7 @@
 2445,The Virginian,2021,7.6,2304,Western,75,Series,TV-PG,249,No Rate,No Rate,No Rate,No Rate,No Rate
 2446,The Hole,2001,6.2,45619,Drama; Mystery; Thriller,102,Film,R,-,Moderate,Moderate,Moderate,Moderate,Severe
 2447,Ballers,2001,7.6,40378,Comedy; Drama; Sport,30,Series,TV-MA,47,Severe,Mild,Severe,Moderate,None
-2448,"I, Tonya",2017,7.5,199050,Biography; Comedy; Drama,119,Film,R,-,Moderate,Moderate,Severe,Moderate,Moderate
+2448,I Tonya,2017,7.5,199050,Biography; Comedy; Drama,119,Film,R,-,Moderate,Moderate,Severe,Moderate,Moderate
 2449,The League of Extraordinary Gentlemen,2003,5.8,172315,Action; Adventure; Fantasy,110,Film,PG-13,-,None,Moderate,Mild,Mild,Moderate
 2450,Needle in a Timestack,2021,3.7,185,Drama; Fantasy; Romance,111,Film,R,-,No Rate,No Rate,No Rate,No Rate,No Rate
 2451,Marley & Me,2008,7.1,152084,Comedy; Drama; Family,111,Film,PG,-,Mild,Mild,Moderate,None,Moderate
@@ -2463,7 +2463,7 @@
 2461,Goosebumps,1981,7.7,12767,Family; Fantasy; Horror,22,Series,TV-Y7,74,None,Mild,None,None,Moderate
 2462,Perry Mason,1981,7.5,16950,Crime; Drama,60,Series,TV-MA,9,Severe,Moderate,Moderate,Moderate,Moderate
 2463,Mannix,1981,7.3,3105,Action; Crime; Drama,60,Series,TV-PG,194,None,Mild,None,Mild,Moderate
-2464,"Ada Twist, Scientist",1981,7.4,55,Animation; Adventure; Comedy,12,Series,TV-PG,7,No Rate,No Rate,No Rate,No Rate,No Rate
+2464,Ada Twist Scientist,1981,7.4,55,Animation; Adventure; Comedy,12,Series,TV-PG,7,No Rate,No Rate,No Rate,No Rate,No Rate
 2465,La cocinera de Castamar,2021,7.4,2666,Drama,0,Series,TV-MA,12,Moderate,Mild,Mild,Mild,Mild
 2466,Annie,1982,6.6,42452,Comedy; Drama; Family,126,Film,PG,-,Mild,Mild,Mild,Mild,Mild
 2467,The Bourne Identity,2002,7.9,524928,Action; Mystery; Thriller,119,Film,PG-13,-,Mild,Moderate,Moderate,Mild,Moderate
@@ -2762,7 +2762,7 @@
 2760,Real Steel,2011,7.0,311475,Action; Drama; Sci-Fi,127,Film,PG-13,-,Mild,Mild,Mild,None,Mild
 2761,Barney Miller,2011,8.2,5336,Comedy; Drama,30,Series,TV-PG,171,None,None,Mild,Mild,None
 2762,The Edge of Seventeen,2016,7.3,114024,Comedy; Drama,104,Film,R,-,Moderate,Mild,Moderate,Mild,Mild
-2763,"Gordon, Gino & Fred's Road Trip",2016,8.5,1078,Adventure; Comedy; Reality-TV,45,Series,None,11,No Rate,No Rate,No Rate,No Rate,No Rate
+2763,Gordon Gino & Fred's Road Trip,2016,8.5,1078,Adventure; Comedy; Reality-TV,45,Series,None,11,No Rate,No Rate,No Rate,No Rate,No Rate
 2764,Bergerac,2016,6.7,1503,Crime; Drama; Mystery,90,Series,None,87,No Rate,No Rate,No Rate,No Rate,No Rate
 2765,Maze Runner: The Death Cure,2018,6.3,125509,Action; Adventure; Sci-Fi,143,Film,PG-13,-,None,Moderate,Mild,None,Moderate
 2766,The Rockford Files,2018,8.1,7729,Crime; Drama; Mystery,50,Series,TV-PG,119,No Rate,No Rate,Mild,No Rate,No Rate
@@ -2776,7 +2776,7 @@
 2774,Le Bureau des Légendes,1982,8.7,9816,Drama; Thriller,52,Series,TV-MA,50,Moderate,Moderate,Moderate,Mild,Moderate
 2775,Zoolander,2001,6.5,254547,Comedy,90,Film,PG-13,-,Moderate,Mild,Moderate,Mild,None
 2776,Hellbound: Hellraiser II,1988,6.5,45618,Horror; Thriller,97,Film,R,-,Moderate,Severe,Moderate,Mild,Severe
-2777,"O Brother, Where Art Thou?",2000,7.7,298862,Adventure; Comedy; Crime,107,Film,PG-13,-,Mild,Mild,Mild,Mild,Mild
+2777,O Brother Where Art Thou?,2000,7.7,298862,Adventure; Comedy; Crime,107,Film,PG-13,-,Mild,Mild,Mild,Mild,Mild
 2778,A Most Violent Year,2014,7.0,69475,Action; Crime; Drama,125,Film,R,-,None,Moderate,Moderate,Mild,Moderate
 2779,Allied,2016,7.1,149346,Action; Drama; Romance,124,Film,R,-,Moderate,Moderate,Moderate,Moderate,Moderate
 2780,Scam 1992: The Harshad Mehta Story,2020,9.5,131914,Biography; Crime; Drama,54,Series,TV-14,10,None,None,Mild,Mild,None
@@ -2845,7 +2845,7 @@
 2843,The Wolverine,2013,6.7,444710,Action; Sci-Fi,126,Film,PG-13,-,Mild,Moderate,Moderate,Mild,Moderate
 2844,Quantico,2013,6.7,58898,Crime; Drama; Mystery,42,Series,TV-14,57,Mild,Moderate,Mild,Mild,Moderate
 2845,Pretty in Pink,1986,6.8,78028,Comedy; Drama; Romance,97,Film,PG-13,-,Mild,Mild,Moderate,Moderate,Mild
-2846,"Matando Cabos 2, La Máscara del Máscara",2021,4.3,172,Comedy,102,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
+2846,Matando Cabos 2 La Máscara del Máscara,2021,4.3,172,Comedy,102,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 2847,Jurassic Park III,2001,5.9,305663,Action; Adventure; Sci-Fi,92,Film,PG-13,-,None,Moderate,Mild,Mild,Moderate
 2848,Mr. Mayor,2001,6.3,3180,Comedy,22,Series,TV-PG,10,None,None,Mild,Mild,No Rate
 2849,Nikita,2001,7.6,50021,Action; Crime; Drama,60,Series,TV-14,73,Mild,Mild,Mild,Mild,Mild
@@ -2904,7 +2904,7 @@
 2902,Bring It On,2000,6.1,92139,Comedy; Romance; Sport,98,Film,PG-13,-,Mild,Mild,Moderate,Mild,None
 2903,Andhadhun,2018,8.2,83444,Crime; Drama; Music,139,Film,Not Rated,-,Mild,Moderate,Mild,Mild,Moderate
 2904,The Shannara Chronicles,2018,7.2,57032,Adventure; Fantasy; Sci-Fi,42,Series,TV-14,20,Mild,Severe,Mild,Mild,Mild
-2905,"Two Guys, a Girl and a Pizza Place",2018,7.4,16434,Comedy; Romance,30,Series,TV-PG,81,No Rate,No Rate,No Rate,No Rate,No Rate
+2905,Two Guys a Girl and a Pizza Place,2018,7.4,16434,Comedy; Romance,30,Series,TV-PG,81,No Rate,No Rate,No Rate,No Rate,No Rate
 2906,Rango,2011,7.2,249443,Animation; Adventure; Comedy,107,Film,PG,-,Mild,Mild,Mild,Moderate,Moderate
 2907,Koe no katachi,2016,8.2,64259,Animation; Drama,130,Film,Not Rated,-,None,Mild,Mild,None,Moderate
 2908,The Accident,2019,6.2,1842,Drama,188,Series,None,4,No Rate,No Rate,No Rate,No Rate,No Rate
@@ -3060,7 +3060,7 @@
 3058,Clash of the Titans,1981,6.9,42909,Action; Adventure; Family,118,Film,PG,-,Mild,Moderate,None,None,Mild
 3059,Widows,2018,6.9,92464,Crime; Drama; Thriller,129,Film,R,-,Moderate,Moderate,Severe,Mild,Moderate
 3060,The Exorcist,2018,8.0,27032,Drama; Horror; Mystery,45,Series,TV-14,20,Mild,Severe,Moderate,Mild,Severe
-3061,"As Above, So Below",2014,6.2,85867,Horror; Mystery; Thriller,93,Film,R,-,Mild,Moderate,Moderate,Mild,Severe
+3061,As Above So Below,2014,6.2,85867,Horror; Mystery; Thriller,93,Film,R,-,Mild,Moderate,Moderate,Mild,Severe
 3062,Self/less,2015,6.5,95166,Action; Mystery; Sci-Fi,117,Film,PG-13,-,Mild,Moderate,Moderate,Mild,Moderate
 3063,Anna Karenina,2012,6.6,96200,Drama; Romance,129,Film,R,-,Moderate,Moderate,Mild,Mild,Mild
 3064,The Book of Life,2014,7.3,67658,Animation; Adventure; Comedy,95,Film,PG,-,None,Mild,None,Mild,Mild
@@ -3149,7 +3149,7 @@
 3147,The Descendants,2011,7.3,237060,Comedy; Drama,115,Film,R,-,Mild,Mild,Severe,Mild,Mild
 3148,Raising Arizona,1987,7.3,132774,Comedy; Crime,94,Film,PG-13,-,Mild,Mild,Moderate,Mild,Mild
 3149,Spenser Confidential,2020,6.2,80152,Action; Comedy; Crime,111,Film,R,-,Mild,Moderate,Severe,Mild,Moderate
-3150,"Love, Rosie",2014,7.2,130554,Comedy; Romance,102,Film,R,-,Mild,None,Moderate,Mild,Mild
+3150,Love Rosie,2014,7.2,130554,Comedy; Romance,102,Film,R,-,Mild,None,Moderate,Mild,Mild
 3151,Last Action Hero,1993,6.4,144648,Action; Adventure; Comedy,130,Film,PG-13,-,Mild,Moderate,Moderate,Mild,Mild
 3152,The Curse of Oak Island,1993,7.0,4799,Documentary; Reality-TV,60,Series,TV-PG,141,None,Mild,Moderate,Mild,Moderate
 3153,Insatiable,1993,6.5,25121,Comedy; Drama; Thriller,45,Series,TV-MA,22,Mild,Moderate,Moderate,Mild,Moderate
@@ -3375,7 +3375,7 @@
 3373,9,2009,7.1,136543,Animation; Action; Adventure,79,Film,PG-13,-,None,Moderate,None,Mild,Moderate
 3374,Steins;Gate,2009,8.8,52130,Animation; Comedy; Drama,24,Series,TV-14,26,Mild,Moderate,Mild,None,Moderate
 3375,My Little Pony: Friendship Is Magic,2009,7.6,19998,Animation; Adventure; Comedy,22,Series,TV-Y,235,None,Mild,None,None,Mild
-3376,"Hush...Hush, Sweet Charlotte",1964,7.6,13906,Crime; Drama; Mystery,133,Film,Not Rated,-,None,Moderate,Mild,Mild,Moderate
+3376,Hush...Hush Sweet Charlotte,1964,7.6,13906,Crime; Drama; Mystery,133,Film,Not Rated,-,None,Moderate,Mild,Mild,Moderate
 3377,127 Hours,2010,7.5,361435,Biography; Drama,94,Film,R,-,Mild,Severe,Moderate,Mild,Severe
 3378,Sanditon,2010,7.8,9673,Drama; Romance,60,Series,TV-14,12,Mild,None,No Rate,Mild,Mild
 3379,F Is for Family,2010,8.0,32110,Animation; Comedy; Drama,30,Series,TV-MA,44,Severe,Severe,Severe,Moderate,Moderate
@@ -3384,7 +3384,7 @@
 3382,What Women Want,2000,6.4,200767,Comedy; Fantasy; Romance,127,Film,PG-13,-,Moderate,None,Mild,Mild,None
 3383,I Spit on Your Grave 2,2013,5.7,28658,Horror; Thriller,106,Film,R,-,Severe,Severe,Severe,Moderate,Severe
 3384,Oz the Great and Powerful,2013,6.3,203186,Adventure; Family; Fantasy,130,Film,PG,-,None,Mild,None,None,Moderate
-3385,"Se, jie",2007,7.5,39802,Drama; History; Romance,157,Film,NC-17,-,Severe,Severe,Moderate,Moderate,Severe
+3385,Se jie,2007,7.5,39802,Drama; History; Romance,157,Film,NC-17,-,Severe,Severe,Moderate,Moderate,Severe
 3386,Better Things,2007,7.8,13258,Comedy; Drama,22,Series,TV-MA,43,Moderate,Mild,Severe,Moderate,None
 3387,Hellboy,2004,6.8,316028,Action; Fantasy,122,Film,PG-13,-,None,Moderate,Mild,Mild,Moderate
 3388,El secreto de sus ojos,2009,8.2,201634,Drama; Mystery; Romance,129,Film,R,-,Severe,Severe,Severe,Moderate,Severe
@@ -3394,13 +3394,13 @@
 3392,The Ninth Gate,1999,6.7,174403,Mystery; Thriller,133,Film,R,-,Moderate,Moderate,Mild,Moderate,Moderate
 3393,Risky Business,1983,6.8,85255,Comedy; Crime; Drama,99,Film,R,-,Moderate,None,Moderate,Moderate,None
 3394,Rio,2011,6.9,216010,Animation; Adventure; Comedy,96,Film,PG,-,None,Mild,None,None,Mild
-3395,"Honey, I Shrunk the Kids",1989,6.4,148720,Adventure; Comedy; Family,93,Film,PG,-,Mild,Mild,Mild,Mild,Mild
+3395,Honey I Shrunk the Kids,1989,6.4,148720,Adventure; Comedy; Family,93,Film,PG,-,Mild,Mild,Mild,Mild,Mild
 3396,Professionals,1989,5.4,1093,Action; Adventure,48,Series,None,10,No Rate,No Rate,No Rate,No Rate,No Rate
 3397,High School Musical: The Musical - The Series,1989,7.3,5352,Comedy; Drama; Musical,31,Series,TV-PG,23,None,None,Mild,None,None
 3398,Ode to Joy,2019,6.4,5041,Comedy; Romance,97,Film,R,-,Mild,None,Mild,None,None
 3399,The Foreigner,2017,7.0,108503,Action; Thriller,113,Film,R,-,Mild,Moderate,Severe,Mild,Moderate
 3400,Exposed,2016,4.3,14762,Crime; Drama; Mystery,102,Film,R,-,Mild,Moderate,Moderate,Mild,Moderate
-3401,"Walker, Texas Ranger",2016,5.6,16088,Action; Adventure; Crime,43,Series,TV-14,196,Mild,Moderate,Mild,Mild,Mild
+3401,Walker Texas Ranger,2016,5.6,16088,Action; Adventure; Crime,43,Series,TV-14,196,Mild,Moderate,Mild,Mild,Mild
 3402,Pet Sematary,2019,5.7,88247,Horror; Mystery; Thriller,101,Film,R,-,Mild,Severe,Moderate,Mild,Severe
 3403,Jack Irish,2019,7.8,2241,Crime; Drama,52,Series,Not Rated,16,Mild,Severe,Mild,Moderate,Moderate
 3404,The Age of Innocence,1993,7.2,56857,Drama; Romance,139,Film,PG,-,Mild,None,None,Mild,None
@@ -3698,10 +3698,10 @@
 3696,Violation,2020,5.3,3077,Drama; Horror,107,Film,Unrated,-,Severe,Severe,Moderate,Mild,Severe
 3697,Saw III,2006,6.2,186221,Crime; Horror; Mystery,108,Film,R,-,Moderate,Severe,Severe,Mild,Severe
 3698,Mob Psycho 100,2006,8.6,21633,Animation; Action; Comedy,24,Series,TV-14,25,Mild,Moderate,Mild,None,Moderate
-3699,"Paris, Texas",1984,8.1,99578,Drama,145,Film,R,-,Mild,None,Mild,Mild,None
+3699,Paris Texas,1984,8.1,99578,Drama,145,Film,R,-,Mild,None,Mild,Mild,None
 3700,One Night in Miami...,2020,7.1,29128,Drama,114,Film,R,-,None,Mild,Moderate,Mild,None
 3701,Penny Dreadful: City of Angels,2020,6.0,8953,Crime; Drama; Fantasy,0,Series,TV-MA,10,Moderate,Severe,Moderate,Moderate,Moderate
-3702,"Definitely, Maybe",2008,7.1,160856,Comedy; Drama; Romance,112,Film,PG-13,-,Mild,None,Mild,Mild,None
+3702,Definitely Maybe,2008,7.1,160856,Comedy; Drama; Romance,112,Film,PG-13,-,Mild,None,Mild,Mild,None
 3703,Say Anything...,1989,7.3,86234,Comedy; Drama; Romance,100,Film,PG-13,-,Mild,None,Mild,Mild,None
 3704,Soleil rouge,1971,6.9,8873,Action; Western,112,Film,PG,-,Mild,Moderate,Mild,Mild,Moderate
 3705,Werk ohne Autor,2018,7.8,19092,Biography; Drama; Romance,189,Film,R,-,Severe,Mild,Mild,Mild,Moderate
@@ -3747,7 +3747,7 @@
 3745,Prom Night,1980,5.4,17071,Horror; Mystery; Thriller,92,Film,R,-,Mild,Severe,Moderate,Moderate,Moderate
 3746,All the Queen's Men,1980,5.3,377,Drama,0,Series,None,10,No Rate,No Rate,No Rate,No Rate,No Rate
 3747,The Bourne Legacy,2012,6.6,292719,Action; Adventure; Thriller,135,Film,PG-13,-,None,Moderate,Mild,Mild,Moderate
-3748,"Planes, Trains & Automobiles",1987,7.6,131032,Comedy; Drama,93,Film,R,-,Mild,None,Moderate,Mild,None
+3748,Planes Trains & Automobiles,1987,7.6,131032,Comedy; Drama,93,Film,R,-,Mild,None,Moderate,Mild,None
 3749,Gon-ji-am,2018,6.3,6759,Horror,95,Film,Not Rated,-,None,Mild,Mild,Mild,Severe
 3750,Body Double,1984,6.8,31694,Crime; Drama; Mystery,114,Film,R,-,Severe,Moderate,Moderate,Mild,Moderate
 3751,Girl Meets World,1984,7.1,13797,Comedy; Drama; Family,23,Series,TV-G,72,None,None,None,None,None
@@ -3879,7 +3879,7 @@
 3877,La pianiste,2001,7.5,60093,Drama; Music,131,Film,R,-,Severe,Moderate,Moderate,Mild,Severe
 3878,Smokey and the Bandit,1977,7.0,48070,Action; Adventure; Comedy,96,Film,PG,-,Mild,Mild,Moderate,Mild,None
 3879,Dante's Peak,1997,6.0,86689,Action; Adventure; Thriller,108,Film,PG-13,-,Mild,Moderate,Mild,Mild,Moderate
-3880,"Doogie Howser, M.D.",1997,6.5,8443,Comedy; Drama; Family,30,Series,TV-PG,97,None,Mild,None,Mild,Mild
+3880,Doogie Howser M.D.,1997,6.5,8443,Comedy; Drama; Family,30,Series,TV-PG,97,None,Mild,None,Mild,Mild
 3881,Strange But True,2019,5.9,4151,Thriller,96,Film,PG-13,-,Mild,Mild,Moderate,Moderate,Moderate
 3882,Yes Day,2021,5.7,20492,Comedy; Family,86,Film,PG,-,None,Mild,None,None,None
 3883,I Spit on Your Grave: Deja Vu,2019,2.3,2463,Horror; Thriller,148,Film,Not Rated,-,Severe,Severe,Severe,Mild,Moderate
@@ -3959,7 +3959,7 @@
 3957,Tin Star,2021,7.3,13236,Crime; Drama; Thriller,60,Series,TV-MA,25,Moderate,Severe,Severe,Moderate,Moderate
 3958,Gandhi,1982,8.0,223910,Biography; Drama; History,191,Film,PG,-,None,Moderate,Mild,None,Moderate
 3959,Naked and Afraid of Love,1982,3.1,155,Reality-TV; Romance,60,Series,None,11,No Rate,No Rate,No Rate,No Rate,No Rate
-3960,"Sex, Lies, and Videotape",1989,7.2,52896,Drama,100,Film,R,-,Mild,None,Moderate,Mild,Mild
+3960,Sex Lies and Videotape,1989,7.2,52896,Drama,100,Film,R,-,Mild,None,Moderate,Mild,Mild
 3961,Yes Man,2008,6.8,347718,Comedy; Romance,104,Film,PG-13,-,Moderate,Mild,Moderate,Moderate,None
 3962,Star Trek: Nemesis,2002,6.4,76729,Action; Adventure; Sci-Fi,116,Film,PG-13,-,Mild,Moderate,Mild,Mild,Moderate
 3963,The Crying Game,1992,7.3,53664,Crime; Drama; Romance,112,Film,R,-,Moderate,Moderate,Severe,Moderate,Severe
@@ -4054,7 +4054,7 @@
 4052,Hot in Cleveland,2021,7.3,12945,Comedy,30,Series,TV-PG,129,Moderate,No Rate,Mild,Moderate,None
 4053,Melissa & Joey,2021,7.0,18234,Comedy; Romance,30,Series,TV-14,104,Mild,None,Mild,Mild,None
 4054,Designing Women,2021,7.1,5249,Comedy,30,Series,TV-PG,163,No Rate,No Rate,No Rate,No Rate,No Rate
-4055,"Yes, God, Yes",2019,6.1,13074,Comedy; Drama,78,Film,R,-,Moderate,None,Mild,Mild,None
+4055,Yes God Yes,2019,6.1,13074,Comedy; Drama,78,Film,R,-,Moderate,None,Mild,Mild,None
 4056,Qismat 2,2021,7.5,714,Drama; Romance,155,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 4057,'Allo 'Allo!,2021,8.3,24463,Comedy; History; War,45,Series,None,85,No Rate,No Rate,No Rate,No Rate,No Rate
 4058,Monsterland,2021,5.6,2503,Drama; Fantasy; Horror,50,Series,TV-MA,8,Mild,Severe,Severe,No Rate,Severe
@@ -4204,7 +4204,7 @@
 4202,Episodes,2001,7.8,34233,Comedy,30,Series,TV-MA,41,Moderate,None,Severe,Mild,No Rate
 4203,Above Suspicion,2019,5.6,4689,Action; Biography; Crime,104,Film,R,-,Mild,Severe,Moderate,Severe,Moderate
 4204,Killer Joe,2011,6.7,75709,Crime; Drama; Thriller,102,Film,Unrated,-,Severe,Severe,Severe,Moderate,Severe
-4205,"Legally Blonde 2: Red, White & Blonde",2003,4.8,64245,Comedy,95,Film,PG-13,-,None,None,Mild,None,None
+4205,Legally Blonde 2: Red White & Blonde,2003,4.8,64245,Comedy,95,Film,PG-13,-,None,None,Mild,None,None
 4206,DC League of Super-Pets,2022,0.0,0,Animation; Action; Adventure,0,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 4207,King Kong,1976,5.9,31536,Adventure; Horror,134,Film,PG,-,Mild,Moderate,Mild,Mild,Moderate
 4208,G.I. Jane,1997,6.0,77700,Action; Drama; War,125,Film,R,-,Mild,Moderate,Moderate,Mild,Mild
@@ -4307,7 +4307,7 @@
 4305,Solace,2015,6.4,59436,Crime; Drama; Mystery,101,Film,R,-,Moderate,Moderate,Mild,Mild,Moderate
 4306,Cocoon,1985,6.7,60414,Comedy; Drama; Sci-Fi,117,Film,PG-13,-,Mild,Mild,Mild,Mild,Mild
 4307,The Venture Bros.,1985,8.5,24671,Animation; Action; Adventure,22,Series,TV-MA,86,Moderate,Moderate,Moderate,Moderate,Mild
-4308,"Double, Double Toil and Trouble",1993,5.9,3417,Adventure; Comedy; Family,96,Film,TV-Y7,-,None,Mild,None,None,Mild
+4308,Double Double Toil and Trouble,1993,5.9,3417,Adventure; Comedy; Family,96,Film,TV-Y7,-,None,Mild,None,None,Mild
 4309,The Watch,1993,5.3,4911,Comedy; Crime; Drama,0,Series,TV-14,8,Mild,No Rate,No Rate,No Rate,No Rate
 4310,August: Osage County,2013,7.2,87614,Comedy; Drama,121,Film,R,-,Mild,Mild,Severe,Moderate,Mild
 4311,Romaenseuneun Byulchaekboorok,2019,8.1,4036,Romance,62,Series,None,16,No Rate,No Rate,No Rate,No Rate,No Rate
@@ -4373,7 +4373,7 @@
 4371,Rat Race,2001,6.4,112517,Action; Adventure; Comedy,112,Film,PG-13,-,Mild,Mild,Moderate,Mild,None
 4372,Waiting for the Barbarians,2019,5.9,9456,Drama,112,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 4373,The Little Hours,2017,5.8,21713,Comedy; Romance,90,Film,R,-,Moderate,Mild,Severe,Mild,Mild
-4374,"Auf Wiedersehen, Pet",2017,8.4,3229,Comedy; Drama,60,Series,None,40,No Rate,No Rate,No Rate,No Rate,No Rate
+4374,Auf Wiedersehen Pet,2017,8.4,3229,Comedy; Drama,60,Series,None,40,No Rate,No Rate,No Rate,No Rate,No Rate
 4375,Blast from the Past,1999,6.6,62518,Comedy; Drama; Romance,112,Film,PG-13,-,Mild,None,Mild,Mild,Mild
 4376,Liar Game,1999,8.0,1856,Drama,36,Series,None,21,No Rate,No Rate,No Rate,No Rate,No Rate
 4377,The Pact,1999,6.8,2219,Thriller,60,Series,None,6,No Rate,No Rate,No Rate,No Rate,No Rate
@@ -4401,10 +4401,10 @@
 4399,The Nest,2020,6.3,10278,Drama; Romance,107,Film,R,-,Moderate,Mild,Moderate,Moderate,None
 4400,Miss Fisher's Murder Mysteries,2020,8.3,14823,Crime; Drama; Mystery,60,Series,TV-PG,34,Mild,Mild,Mild,Mild,Mild
 4401,Shaft,2019,6.4,49598,Action; Comedy; Crime,111,Film,R,-,Moderate,Moderate,Severe,Moderate,Mild
-4402,"Hail, Caesar!",2016,6.3,129030,Comedy; Drama; Music,106,Film,PG-13,-,None,Mild,Mild,Mild,None
+4402,Hail Caesar!,2016,6.3,129030,Comedy; Drama; Music,106,Film,PG-13,-,None,Mild,Mild,Mild,None
 4403,The Exorcist,2023,0.0,0,Horror,121,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 4404,Jonathan Creek,2023,8.1,7069,Comedy; Crime; Drama,60,Series,TV-MA,32,Moderate,Moderate,Moderate,No Rate,Mild
-4405,"Me, Myself & Irene",2000,6.6,230337,Comedy,116,Film,R,-,Moderate,Moderate,Severe,Mild,Mild
+4405,Me Myself & Irene,2000,6.6,230337,Comedy,116,Film,R,-,Moderate,Moderate,Severe,Mild,Mild
 4406,A River Runs Through It,1992,7.2,56009,Drama,123,Film,PG,-,Mild,Mild,Mild,Mild,Mild
 4407,Villains,2019,6.2,11567,Comedy; Drama; Horror,90,Film,R,-,Mild,Moderate,Severe,Moderate,Moderate
 4408,Foxcatcher,2014,7.0,138695,Biography; Drama; History,134,Film,R,-,Mild,Moderate,Mild,Moderate,Moderate
@@ -4507,7 +4507,7 @@
 4505,10 Years,2011,6.1,25016,Comedy; Drama; Romance,110,Film,PG-13,-,Mild,None,Mild,Mild,None
 4506,Scott & Bailey,2011,8.0,7743,Crime; Drama; Mystery,45,Series,TV-14,33,Mild,Mild,Moderate,Mild,No Rate
 4507,House at the End of the Street,2012,5.6,75314,Drama; Horror; Thriller,101,Film,PG-13,-,Mild,Moderate,Mild,Mild,Moderate
-4508,"Luchshe, chem lyudi",2012,7.4,7863,Drama; Sci-Fi,52,Series,None,16,No Rate,No Rate,No Rate,No Rate,No Rate
+4508,Luchshe chem lyudi,2012,7.4,7863,Drama; Sci-Fi,52,Series,None,16,No Rate,No Rate,No Rate,No Rate,No Rate
 4509,Twist,2021,4.1,2261,Action; Drama,90,Film,R,-,Mild,Moderate,Moderate,Moderate,Mild
 4510,Raven's Home,2021,7.3,2802,Comedy; Family,22,Series,TV-G,82,None,None,None,None,None
 4511,Young Guns,1988,6.9,58138,Action; Western,107,Film,R,-,Mild,Moderate,Moderate,Moderate,Mild
@@ -4593,7 +4593,7 @@
 4591,Perception,2021,7.5,20238,Crime; Drama; Mystery,42,Series,TV-14,39,Mild,Mild,Moderate,Mild,Mild
 4592,Space Cowboys,2000,6.5,78341,Action; Adventure; Thriller,130,Film,PG-13,-,Mild,Mild,Moderate,Mild,Mild
 4593,The Water Man,2020,5.4,3081,Adventure; Drama; Family,91,Film,PG,-,None,Moderate,Moderate,None,Moderate
-4594,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,8.1,47000,Animation; Action; Drama,87,Film,TV-MA,-,Severe,Severe,Moderate,None,Severe
+4594,Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo kimi ni,1997,8.1,47000,Animation; Action; Drama,87,Film,TV-MA,-,Severe,Severe,Moderate,None,Severe
 4595,Pixels,2015,5.5,137442,Animation; Action; Comedy,105,Film,PG-13,-,Mild,Mild,Mild,Mild,Mild
 4596,Haven,2015,7.5,36681,Crime; Drama; Fantasy,60,Series,TV-PG,78,Mild,Moderate,Mild,Mild,Mild
 4597,Ajeossi,2010,7.8,66462,Action; Crime; Drama,119,Film,R,-,Mild,Severe,Severe,Moderate,Moderate
@@ -4617,7 +4617,7 @@
 4615,The Grey,2011,6.8,246614,Action; Adventure; Drama,117,Film,R,-,None,Severe,Severe,Mild,Severe
 4616,Kung Fu Panda 3,2016,7.1,144918,Animation; Action; Adventure,95,Film,PG,-,None,Mild,None,None,Mild
 4617,You're the Worst,2016,8.1,24591,Comedy; Drama; Romance,30,Series,TV-MA,62,Moderate,Mild,Severe,Severe,Mild
-4618,"Good Morning, Miss Bliss",2016,6.8,1801,Comedy; Family,30,Series,TV-G,14,No Rate,No Rate,No Rate,No Rate,No Rate
+4618,Good Morning Miss Bliss,2016,6.8,1801,Comedy; Family,30,Series,TV-G,14,No Rate,No Rate,No Rate,No Rate,No Rate
 4619,Rawhide,2016,8.0,3506,Western,50,Series,TV-PG,217,No Rate,No Rate,No Rate,No Rate,No Rate
 4620,High-Rise,2015,5.6,40641,Drama; Sci-Fi,119,Film,R,-,Severe,Severe,Moderate,Severe,Moderate
 4621,The Equalizer,2015,7.8,4900,Action; Crime; Drama,48,Series,TV-PG,88,Mild,Mild,Mild,Mild,Mild
@@ -4706,7 +4706,7 @@
 4704,Z,1969,8.3,25750,Crime; Drama; History,127,Film,M,-,Mild,Moderate,Mild,Mild,Mild
 4705,Slow West,2015,6.9,44430,Action; Adventure; Drama,84,Film,R,-,Mild,Moderate,Mild,Mild,Moderate
 4706,Parker,2013,6.2,119313,Action; Crime; Thriller,118,Film,R,-,Mild,Severe,Severe,Mild,Mild
-4707,"Everything, Everything",2017,6.4,35969,Drama; Romance,96,Film,PG-13,-,Mild,None,Mild,None,None
+4707,Everything Everything,2017,6.4,35969,Drama; Romance,96,Film,PG-13,-,Mild,None,Mild,None,None
 4708,68 Whiskey,2020,5.7,1895,Comedy; Drama; War,0,Series,TV-MA,10,Moderate,Moderate,Severe,Mild,Mild
 4709,Piranha 3DD,2012,3.7,41440,Comedy; Horror; Sci-Fi,83,Film,R,-,Severe,Severe,Moderate,Severe,Severe
 4710,Volcano,1997,5.5,74561,Action; Drama; Sci-Fi,104,Film,PG-13,-,None,Moderate,Mild,Mild,Moderate
@@ -4726,8 +4726,8 @@
 4724,Against All Odds,1984,5.9,11828,Action; Adventure; Crime,128,Film,R,-,Moderate,Moderate,Severe,Moderate,Mild
 4725,The Chi,1984,7.4,5276,Drama,60,Series,TV-MA,40,Moderate,Mild,Severe,Moderate,No Rate
 4726,The Beastmaster,1982,6.2,22218,Action; Adventure; Fantasy,118,Film,PG,-,Moderate,Moderate,Mild,Mild,Moderate
-4727,"Scooby Doo, Where Are You!",1982,7.9,32289,Animation; Adventure; Comedy,22,Series,TV-G,25,None,Mild,None,None,Mild
-4728,"Janghwa, Hongryeon",2003,7.2,59668,Drama; Horror; Mystery,114,Film,R,-,None,Moderate,None,Mild,Severe
+4727,Scooby Doo Where Are You!,1982,7.9,32289,Animation; Adventure; Comedy,22,Series,TV-G,25,None,Mild,None,None,Mild
+4728,Janghwa Hongryeon,2003,7.2,59668,Drama; Horror; Mystery,114,Film,R,-,None,Moderate,None,Mild,Severe
 4729,Pinocchio,2019,6.2,11192,Drama; Family; Fantasy,125,Film,PG-13,-,None,Mild,None,Mild,Moderate
 4730,Private Parts,1997,6.9,35756,Biography; Comedy; Drama,109,Film,R,-,Moderate,None,Severe,Mild,None
 4731,Gräns,2018,7.0,27427,Crime; Drama; Fantasy,110,Film,R,-,Severe,Moderate,Mild,Mild,Moderate
@@ -4760,7 +4760,7 @@
 4758,Carnivàle,1997,8.4,43565,Drama; Fantasy; Mystery,55,Series,TV-MA,24,Severe,Moderate,Mild,Moderate,Moderate
 4759,The Good Dinosaur,2015,6.7,108433,Animation; Adventure; Comedy,93,Film,PG,-,None,Mild,None,Mild,Moderate
 4760,All-Star Weekend,2015,0.0,0,Comedy,0,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
-4761,"Quo vadis, Aida?",2020,7.9,26097,Drama; History; War,101,Film,Approved,-,None,Moderate,Mild,Mild,Moderate
+4761,Quo vadis Aida?,2020,7.9,26097,Drama; History; War,101,Film,Approved,-,None,Moderate,Mild,Mild,Moderate
 4762,Night Shift,1982,6.6,15119,Comedy,106,Film,R,-,Moderate,Mild,Mild,Mild,Mild
 4763,The Unit,1982,8.1,21115,Action; Drama; Thriller,60,Series,TV-PG,70,No Rate,No Rate,No Rate,No Rate,No Rate
 4764,Bad Moms,2016,6.2,119361,Comedy,100,Film,R,-,Moderate,None,Severe,Severe,None
@@ -4799,11 +4799,11 @@
 4797,Terminator: The Sarah Connor Chronicles,1973,7.7,58870,Action; Drama; Fantasy,60,Series,TV-PG,31,Mild,Moderate,Mild,Mild,Moderate
 4798,BROS,2022,0.0,0,Comedy; Romance,0,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 4799,À l'intérieur,2007,6.7,39232,Horror,82,Film,R,-,None,Severe,Moderate,Mild,Severe
-4800,"Ich seh, Ich seh",2014,6.7,48564,Horror; Mystery; Thriller,99,Film,R,-,Mild,Severe,None,None,Severe
+4800,Ich seh Ich seh,2014,6.7,48564,Horror; Mystery; Thriller,99,Film,R,-,Mild,Severe,None,None,Severe
 4801,The Silence,2019,5.3,41783,Drama; Horror; Sci-Fi,90,Film,PG-13,-,None,Moderate,Mild,Mild,Moderate
 4802,Effie Gray,2014,6.0,5108,Biography; Drama; Romance,104,Film,PG-13,-,Mild,Mild,None,Mild,None
 4803,The White Tiger,2021,7.1,54606,Crime; Drama,125,Film,R,-,Mild,Moderate,Severe,Moderate,Moderate
-4804,"Where'd You Go, Bernadette",2019,6.5,19920,Comedy; Drama,109,Film,PG-13,-,Mild,None,Mild,Mild,None
+4804,Where'd You Go Bernadette,2019,6.5,19920,Comedy; Drama,109,Film,PG-13,-,Mild,None,Mild,Mild,None
 4805,Átame!,1989,7.0,27688,Comedy; Crime; Drama,101,Film,NC-17,-,Moderate,Moderate,Moderate,Moderate,Mild
 4806,White Lines,2020,6.6,15831,Crime; Drama; Mystery,60,Series,TV-MA,10,Severe,Moderate,Severe,Severe,Mild
 4807,Eat Pray Love,2010,5.8,93261,Biography; Drama; Romance,133,Film,PG-13,-,Mild,None,Mild,Mild,None
@@ -4932,7 +4932,7 @@
 4930,Manhattan,2020,7.8,8180,Drama; History; War,55,Series,TV-14,23,Moderate,No Rate,No Rate,No Rate,Moderate
 4931,Wet Hot American Summer,2001,6.6,56379,Comedy; Romance,97,Film,R,-,Mild,None,Moderate,Moderate,None
 4932,Fawlty Towers,2001,8.7,88569,Comedy,30,Series,TV-PG,12,Mild,None,Mild,Mild,None
-4933,"Hispania, la leyenda",2001,6.3,554,History,0,Series,None,20,No Rate,No Rate,No Rate,No Rate,No Rate
+4933,Hispania la leyenda,2001,6.3,554,History,0,Series,None,20,No Rate,No Rate,No Rate,No Rate,No Rate
 4934,John Q,2002,7.1,128820,Crime; Drama; Thriller,116,Film,PG-13,-,None,Mild,Moderate,Mild,Moderate
 4935,Persona,1966,8.1,111181,Drama; Thriller,85,Film,Not Rated,-,Moderate,Moderate,Mild,Mild,Moderate
 4936,The New Addams Family,1966,6.2,2087,Comedy; Family; Horror,30,Series,None,65,No Rate,No Rate,No Rate,No Rate,No Rate
@@ -4995,7 +4995,7 @@
 4993,Resort to Love,2021,5.7,4562,Comedy; Romance,101,Film,PG,-,Mild,None,None,Mild,None
 4994,Killjoys,2021,7.2,21218,Action; Adventure; Sci-Fi,42,Series,TV-MA,50,Moderate,Moderate,Mild,Mild,Mild
 4995,AVPR: Aliens vs Predator - Requiem,2007,4.6,120131,Action; Horror; Sci-Fi,94,Film,R,-,Mild,Severe,Moderate,Mild,Severe
-4996,"Endings, Beginnings",2019,5.7,5042,Drama,110,Film,Unrated,-,Moderate,None,Moderate,Moderate,None
+4996,Endings Beginnings,2019,5.7,5042,Drama,110,Film,Unrated,-,Moderate,None,Moderate,Moderate,None
 4997,La cara oculta,2011,7.4,40729,Drama; Mystery; Thriller,97,Film,R,-,Severe,Mild,Mild,Mild,Moderate
 4998,Dumb and Dumber To,2014,5.6,133162,Comedy,109,Film,PG-13,-,Moderate,Mild,Moderate,Mild,Mild
 4999,Brawl in Cell Block 99,2017,7.2,62894,Action; Crime; Drama,132,Film,Not Rated,-,Mild,Severe,Moderate,Mild,Severe
@@ -5029,7 +5029,7 @@
 5027,Death Race,2008,6.3,203578,Action; Sci-Fi; Thriller,105,Film,R,-,Mild,Severe,Severe,Mild,Moderate
 5028,Smokey and the Bandit,1977,7.0,48070,Action; Adventure; Comedy,96,Film,PG,-,Mild,Mild,Moderate,Mild,None
 5029,Dante's Peak,1997,6.0,86689,Action; Adventure; Thriller,108,Film,PG-13,-,Mild,Moderate,Mild,Mild,Moderate
-5030,"Doogie Howser, M.D.",1997,6.5,8443,Comedy; Drama; Family,30,Series,TV-PG,97,None,Mild,None,Mild,Mild
+5030,Doogie Howser M.D.,1997,6.5,8443,Comedy; Drama; Family,30,Series,TV-PG,97,None,Mild,None,Mild,Mild
 5031,Strange But True,2019,5.9,4151,Thriller,96,Film,PG-13,-,Mild,Mild,Moderate,Moderate,Moderate
 5032,Yes Day,2021,5.7,20492,Comedy; Family,86,Film,PG,-,None,Mild,None,None,None
 5033,I Spit on Your Grave: Deja Vu,2019,2.3,2463,Horror; Thriller,148,Film,Not Rated,-,Severe,Severe,Severe,Mild,Moderate
@@ -5109,7 +5109,7 @@
 5107,Tin Star,2021,7.3,13236,Crime; Drama; Thriller,60,Series,TV-MA,25,Moderate,Severe,Severe,Moderate,Moderate
 5108,Gandhi,1982,8.0,223910,Biography; Drama; History,191,Film,PG,-,None,Moderate,Mild,None,Moderate
 5109,Naked and Afraid of Love,1982,3.1,155,Reality-TV; Romance,60,Series,None,11,No Rate,No Rate,No Rate,No Rate,No Rate
-5110,"Sex, Lies, and Videotape",1989,7.2,52896,Drama,100,Film,R,-,Mild,None,Moderate,Mild,Mild
+5110,Sex Lies and Videotape,1989,7.2,52896,Drama,100,Film,R,-,Mild,None,Moderate,Mild,Mild
 5111,Yes Man,2008,6.8,347718,Comedy; Romance,104,Film,PG-13,-,Moderate,Mild,Moderate,Moderate,None
 5112,Star Trek: Nemesis,2002,6.4,76729,Action; Adventure; Sci-Fi,116,Film,PG-13,-,Mild,Moderate,Mild,Mild,Moderate
 5113,The Crying Game,1992,7.3,53664,Crime; Drama; Romance,112,Film,R,-,Moderate,Moderate,Severe,Moderate,Severe
@@ -5204,7 +5204,7 @@
 5202,Hot in Cleveland,2021,7.3,12945,Comedy,30,Series,TV-PG,129,Moderate,No Rate,Mild,Moderate,None
 5203,Melissa & Joey,2021,7.0,18234,Comedy; Romance,30,Series,TV-14,104,Mild,None,Mild,Mild,None
 5204,Designing Women,2021,7.1,5249,Comedy,30,Series,TV-PG,163,No Rate,No Rate,No Rate,No Rate,No Rate
-5205,"Yes, God, Yes",2019,6.1,13074,Comedy; Drama,78,Film,R,-,Moderate,None,Mild,Mild,None
+5205,Yes God Yes,2019,6.1,13074,Comedy; Drama,78,Film,R,-,Moderate,None,Mild,Mild,None
 5206,Qismat 2,2021,7.5,714,Drama; Romance,155,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 5207,'Allo 'Allo!,2021,8.3,24463,Comedy; History; War,45,Series,None,85,No Rate,No Rate,No Rate,No Rate,No Rate
 5208,Monsterland,2021,5.6,2503,Drama; Fantasy; Horror,50,Series,TV-MA,8,Mild,Severe,Severe,No Rate,Severe
@@ -5354,7 +5354,7 @@
 5352,Episodes,2001,7.8,34233,Comedy,30,Series,TV-MA,41,Moderate,None,Severe,Mild,No Rate
 5353,Above Suspicion,2019,5.6,4689,Action; Biography; Crime,104,Film,R,-,Mild,Severe,Moderate,Severe,Moderate
 5354,Killer Joe,2011,6.7,75709,Crime; Drama; Thriller,102,Film,Unrated,-,Severe,Severe,Severe,Moderate,Severe
-5355,"Legally Blonde 2: Red, White & Blonde",2003,4.8,64245,Comedy,95,Film,PG-13,-,None,None,Mild,None,None
+5355,Legally Blonde 2: Red White & Blonde,2003,4.8,64245,Comedy,95,Film,PG-13,-,None,None,Mild,None,None
 5356,DC League of Super-Pets,2022,0.0,0,Animation; Action; Adventure,0,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 5357,King Kong,1976,5.9,31536,Adventure; Horror,134,Film,PG,-,Mild,Moderate,Mild,Mild,Moderate
 5358,G.I. Jane,1997,6.0,77700,Action; Drama; War,125,Film,R,-,Mild,Moderate,Moderate,Mild,Mild
@@ -5457,7 +5457,7 @@
 5455,Solace,2015,6.4,59436,Crime; Drama; Mystery,101,Film,R,-,Moderate,Moderate,Mild,Mild,Moderate
 5456,Cocoon,1985,6.7,60414,Comedy; Drama; Sci-Fi,117,Film,PG-13,-,Mild,Mild,Mild,Mild,Mild
 5457,The Venture Bros.,1985,8.5,24671,Animation; Action; Adventure,22,Series,TV-MA,86,Moderate,Moderate,Moderate,Moderate,Mild
-5458,"Double, Double Toil and Trouble",1993,5.9,3417,Adventure; Comedy; Family,96,Film,TV-Y7,-,None,Mild,None,None,Mild
+5458,Double Double Toil and Trouble,1993,5.9,3417,Adventure; Comedy; Family,96,Film,TV-Y7,-,None,Mild,None,None,Mild
 5459,The Watch,1993,5.3,4911,Comedy; Crime; Drama,0,Series,TV-14,8,Mild,No Rate,No Rate,No Rate,No Rate
 5460,August: Osage County,2013,7.2,87614,Comedy; Drama,121,Film,R,-,Mild,Mild,Severe,Moderate,Mild
 5461,Romaenseuneun Byulchaekboorok,2019,8.1,4036,Romance,62,Series,None,16,No Rate,No Rate,No Rate,No Rate,No Rate
@@ -5523,7 +5523,7 @@
 5521,Rat Race,2001,6.4,112517,Action; Adventure; Comedy,112,Film,PG-13,-,Mild,Mild,Moderate,Mild,None
 5522,Waiting for the Barbarians,2019,5.9,9456,Drama,112,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 5523,The Little Hours,2017,5.8,21713,Comedy; Romance,90,Film,R,-,Moderate,Mild,Severe,Mild,Mild
-5524,"Auf Wiedersehen, Pet",2017,8.4,3229,Comedy; Drama,60,Series,None,40,No Rate,No Rate,No Rate,No Rate,No Rate
+5524,Auf Wiedersehen Pet,2017,8.4,3229,Comedy; Drama,60,Series,None,40,No Rate,No Rate,No Rate,No Rate,No Rate
 5525,Blast from the Past,1999,6.6,62518,Comedy; Drama; Romance,112,Film,PG-13,-,Mild,None,Mild,Mild,Mild
 5526,Liar Game,1999,8.0,1856,Drama,36,Series,None,21,No Rate,No Rate,No Rate,No Rate,No Rate
 5527,The Pact,1999,6.8,2219,Thriller,60,Series,None,6,No Rate,No Rate,No Rate,No Rate,No Rate
@@ -5551,10 +5551,10 @@
 5549,The Nest,2020,6.3,10278,Drama; Romance,107,Film,R,-,Moderate,Mild,Moderate,Moderate,None
 5550,Miss Fisher's Murder Mysteries,2020,8.3,14823,Crime; Drama; Mystery,60,Series,TV-PG,34,Mild,Mild,Mild,Mild,Mild
 5551,Shaft,2019,6.4,49598,Action; Comedy; Crime,111,Film,R,-,Moderate,Moderate,Severe,Moderate,Mild
-5552,"Hail, Caesar!",2016,6.3,129030,Comedy; Drama; Music,106,Film,PG-13,-,None,Mild,Mild,Mild,None
+5552,Hail Caesar!,2016,6.3,129030,Comedy; Drama; Music,106,Film,PG-13,-,None,Mild,Mild,Mild,None
 5553,The Exorcist,2023,0.0,0,Horror,121,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 5554,Jonathan Creek,2023,8.1,7069,Comedy; Crime; Drama,60,Series,TV-MA,32,Moderate,Moderate,Moderate,No Rate,Mild
-5555,"Me, Myself & Irene",2000,6.6,230337,Comedy,116,Film,R,-,Moderate,Moderate,Severe,Mild,Mild
+5555,Me Myself & Irene,2000,6.6,230337,Comedy,116,Film,R,-,Moderate,Moderate,Severe,Mild,Mild
 5556,A River Runs Through It,1992,7.2,56009,Drama,123,Film,PG,-,Mild,Mild,Mild,Mild,Mild
 5557,Villains,2019,6.2,11567,Comedy; Drama; Horror,90,Film,R,-,Mild,Moderate,Severe,Moderate,Moderate
 5558,Foxcatcher,2014,7.0,138695,Biography; Drama; History,134,Film,R,-,Mild,Moderate,Mild,Moderate,Moderate
@@ -5657,7 +5657,7 @@
 5655,10 Years,2011,6.1,25016,Comedy; Drama; Romance,110,Film,PG-13,-,Mild,None,Mild,Mild,None
 5656,Scott & Bailey,2011,8.0,7743,Crime; Drama; Mystery,45,Series,TV-14,33,Mild,Mild,Moderate,Mild,No Rate
 5657,House at the End of the Street,2012,5.6,75314,Drama; Horror; Thriller,101,Film,PG-13,-,Mild,Moderate,Mild,Mild,Moderate
-5658,"Luchshe, chem lyudi",2012,7.4,7863,Drama; Sci-Fi,52,Series,None,16,No Rate,No Rate,No Rate,No Rate,No Rate
+5658,Luchshe chem lyudi,2012,7.4,7863,Drama; Sci-Fi,52,Series,None,16,No Rate,No Rate,No Rate,No Rate,No Rate
 5659,Twist,2021,4.1,2261,Action; Drama,90,Film,R,-,Mild,Moderate,Moderate,Moderate,Mild
 5660,Raven's Home,2021,7.3,2802,Comedy; Family,22,Series,TV-G,82,None,None,None,None,None
 5661,Young Guns,1988,6.9,58138,Action; Western,107,Film,R,-,Mild,Moderate,Moderate,Moderate,Mild
@@ -5743,7 +5743,7 @@
 5741,Perception,2021,7.5,20238,Crime; Drama; Mystery,42,Series,TV-14,39,Mild,Mild,Moderate,Mild,Mild
 5742,Space Cowboys,2000,6.5,78341,Action; Adventure; Thriller,130,Film,PG-13,-,Mild,Mild,Moderate,Mild,Mild
 5743,The Water Man,2020,5.4,3081,Adventure; Drama; Family,91,Film,PG,-,None,Moderate,Moderate,None,Moderate
-5744,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,8.1,47000,Animation; Action; Drama,87,Film,TV-MA,-,Severe,Severe,Moderate,None,Severe
+5744,Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo kimi ni,1997,8.1,47000,Animation; Action; Drama,87,Film,TV-MA,-,Severe,Severe,Moderate,None,Severe
 5745,Pixels,2015,5.5,137442,Animation; Action; Comedy,105,Film,PG-13,-,Mild,Mild,Mild,Mild,Mild
 5746,Haven,2015,7.5,36681,Crime; Drama; Fantasy,60,Series,TV-PG,78,Mild,Moderate,Mild,Mild,Mild
 5747,Ajeossi,2010,7.8,66462,Action; Crime; Drama,119,Film,R,-,Mild,Severe,Severe,Moderate,Moderate
@@ -5767,7 +5767,7 @@
 5765,The Grey,2011,6.8,246614,Action; Adventure; Drama,117,Film,R,-,None,Severe,Severe,Mild,Severe
 5766,Kung Fu Panda 3,2016,7.1,144918,Animation; Action; Adventure,95,Film,PG,-,None,Mild,None,None,Mild
 5767,You're the Worst,2016,8.1,24591,Comedy; Drama; Romance,30,Series,TV-MA,62,Moderate,Mild,Severe,Severe,Mild
-5768,"Good Morning, Miss Bliss",2016,6.8,1801,Comedy; Family,30,Series,TV-G,14,No Rate,No Rate,No Rate,No Rate,No Rate
+5768,Good Morning Miss Bliss,2016,6.8,1801,Comedy; Family,30,Series,TV-G,14,No Rate,No Rate,No Rate,No Rate,No Rate
 5769,Rawhide,2016,8.0,3506,Western,50,Series,TV-PG,217,No Rate,No Rate,No Rate,No Rate,No Rate
 5770,High-Rise,2015,5.6,40641,Drama; Sci-Fi,119,Film,R,-,Severe,Severe,Moderate,Severe,Moderate
 5771,The Equalizer,2015,7.8,4900,Action; Crime; Drama,48,Series,TV-PG,88,Mild,Mild,Mild,Mild,Mild
@@ -5856,7 +5856,7 @@
 5854,Z,1969,8.3,25750,Crime; Drama; History,127,Film,M,-,Mild,Moderate,Mild,Mild,Mild
 5855,Slow West,2015,6.9,44430,Action; Adventure; Drama,84,Film,R,-,Mild,Moderate,Mild,Mild,Moderate
 5856,Parker,2013,6.2,119313,Action; Crime; Thriller,118,Film,R,-,Mild,Severe,Severe,Mild,Mild
-5857,"Everything, Everything",2017,6.4,35969,Drama; Romance,96,Film,PG-13,-,Mild,None,Mild,None,None
+5857,Everything Everything,2017,6.4,35969,Drama; Romance,96,Film,PG-13,-,Mild,None,Mild,None,None
 5858,68 Whiskey,2020,5.7,1895,Comedy; Drama; War,0,Series,TV-MA,10,Moderate,Moderate,Severe,Mild,Mild
 5859,Piranha 3DD,2012,3.7,41440,Comedy; Horror; Sci-Fi,83,Film,R,-,Severe,Severe,Moderate,Severe,Severe
 5860,Volcano,1997,5.5,74561,Action; Drama; Sci-Fi,104,Film,PG-13,-,None,Moderate,Mild,Mild,Moderate
@@ -5876,8 +5876,8 @@
 5874,Against All Odds,1984,5.9,11828,Action; Adventure; Crime,128,Film,R,-,Moderate,Moderate,Severe,Moderate,Mild
 5875,The Chi,1984,7.4,5276,Drama,60,Series,TV-MA,40,Moderate,Mild,Severe,Moderate,No Rate
 5876,The Beastmaster,1982,6.2,22218,Action; Adventure; Fantasy,118,Film,PG,-,Moderate,Moderate,Mild,Mild,Moderate
-5877,"Scooby Doo, Where Are You!",1982,7.9,32289,Animation; Adventure; Comedy,22,Series,TV-G,25,None,Mild,None,None,Mild
-5878,"Janghwa, Hongryeon",2003,7.2,59668,Drama; Horror; Mystery,114,Film,R,-,None,Moderate,None,Mild,Severe
+5877,Scooby Doo Where Are You!,1982,7.9,32289,Animation; Adventure; Comedy,22,Series,TV-G,25,None,Mild,None,None,Mild
+5878,Janghwa Hongryeon,2003,7.2,59668,Drama; Horror; Mystery,114,Film,R,-,None,Moderate,None,Mild,Severe
 5879,Pinocchio,2019,6.2,11192,Drama; Family; Fantasy,125,Film,PG-13,-,None,Mild,None,Mild,Moderate
 5880,Private Parts,1997,6.9,35756,Biography; Comedy; Drama,109,Film,R,-,Moderate,None,Severe,Mild,None
 5881,Gräns,2018,7.0,27427,Crime; Drama; Fantasy,110,Film,R,-,Severe,Moderate,Mild,Mild,Moderate
@@ -5910,7 +5910,7 @@
 5908,Carnivàle,1997,8.4,43565,Drama; Fantasy; Mystery,55,Series,TV-MA,24,Severe,Moderate,Mild,Moderate,Moderate
 5909,The Good Dinosaur,2015,6.7,108433,Animation; Adventure; Comedy,93,Film,PG,-,None,Mild,None,Mild,Moderate
 5910,All-Star Weekend,2015,0.0,0,Comedy,0,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
-5911,"Quo vadis, Aida?",2020,7.9,26097,Drama; History; War,101,Film,Approved,-,None,Moderate,Mild,Mild,Moderate
+5911,Quo vadis Aida?,2020,7.9,26097,Drama; History; War,101,Film,Approved,-,None,Moderate,Mild,Mild,Moderate
 5912,Night Shift,1982,6.6,15119,Comedy,106,Film,R,-,Moderate,Mild,Mild,Mild,Mild
 5913,The Unit,1982,8.1,21115,Action; Drama; Thriller,60,Series,TV-PG,70,No Rate,No Rate,No Rate,No Rate,No Rate
 5914,Bad Moms,2016,6.2,119361,Comedy,100,Film,R,-,Moderate,None,Severe,Severe,None
@@ -5949,11 +5949,11 @@
 5947,Terminator: The Sarah Connor Chronicles,1973,7.7,58870,Action; Drama; Fantasy,60,Series,TV-PG,31,Mild,Moderate,Mild,Mild,Moderate
 5948,BROS,2022,0.0,0,Comedy; Romance,0,Film,None,-,No Rate,No Rate,No Rate,No Rate,No Rate
 5949,À l'intérieur,2007,6.7,39232,Horror,82,Film,R,-,None,Severe,Moderate,Mild,Severe
-5950,"Ich seh, Ich seh",2014,6.7,48564,Horror; Mystery; Thriller,99,Film,R,-,Mild,Severe,None,None,Severe
+5950,Ich seh Ich seh,2014,6.7,48564,Horror; Mystery; Thriller,99,Film,R,-,Mild,Severe,None,None,Severe
 5951,The Silence,2019,5.3,41783,Drama; Horror; Sci-Fi,90,Film,PG-13,-,None,Moderate,Mild,Mild,Moderate
 5952,Effie Gray,2014,6.0,5108,Biography; Drama; Romance,104,Film,PG-13,-,Mild,Mild,None,Mild,None
 5953,The White Tiger,2021,7.1,54606,Crime; Drama,125,Film,R,-,Mild,Moderate,Severe,Moderate,Moderate
-5954,"Where'd You Go, Bernadette",2019,6.5,19920,Comedy; Drama,109,Film,PG-13,-,Mild,None,Mild,Mild,None
+5954,Where'd You Go Bernadette,2019,6.5,19920,Comedy; Drama,109,Film,PG-13,-,Mild,None,Mild,Mild,None
 5955,Átame!,1989,7.0,27688,Comedy; Crime; Drama,101,Film,NC-17,-,Moderate,Moderate,Moderate,Moderate,Mild
 5956,White Lines,2020,6.6,15831,Crime; Drama; Mystery,60,Series,TV-MA,10,Severe,Moderate,Severe,Severe,Mild
 5957,Eat Pray Love,2010,5.8,93261,Biography; Drama; Romance,133,Film,PG-13,-,Mild,None,Mild,Mild,None
@@ -6082,7 +6082,7 @@
 6080,Manhattan,2020,7.8,8180,Drama; History; War,55,Series,TV-14,23,Moderate,No Rate,No Rate,No Rate,Moderate
 6081,Wet Hot American Summer,2001,6.6,56379,Comedy; Romance,97,Film,R,-,Mild,None,Moderate,Moderate,None
 6082,Fawlty Towers,2001,8.7,88569,Comedy,30,Series,TV-PG,12,Mild,None,Mild,Mild,None
-6083,"Hispania, la leyenda",2001,6.3,554,History,0,Series,None,20,No Rate,No Rate,No Rate,No Rate,No Rate
+6083,Hispania la leyenda,2001,6.3,554,History,0,Series,None,20,No Rate,No Rate,No Rate,No Rate,No Rate
 6084,John Q,2002,7.1,128820,Crime; Drama; Thriller,116,Film,PG-13,-,None,Mild,Moderate,Mild,Moderate
 6085,Persona,1966,8.1,111181,Drama; Thriller,85,Film,Not Rated,-,Moderate,Moderate,Mild,Mild,Moderate
 6086,The New Addams Family,1966,6.2,2087,Comedy; Family; Horror,30,Series,None,65,No Rate,No Rate,No Rate,No Rate,No Rate
@@ -6145,7 +6145,7 @@
 6143,Resort to Love,2021,5.7,4562,Comedy; Romance,101,Film,PG,-,Mild,None,None,Mild,None
 6144,Killjoys,2021,7.2,21218,Action; Adventure; Sci-Fi,42,Series,TV-MA,50,Moderate,Moderate,Mild,Mild,Mild
 6145,AVPR: Aliens vs Predator - Requiem,2007,4.6,120131,Action; Horror; Sci-Fi,94,Film,R,-,Mild,Severe,Moderate,Mild,Severe
-6146,"Endings, Beginnings",2019,5.7,5042,Drama,110,Film,Unrated,-,Moderate,None,Moderate,Moderate,None
+6146,Endings Beginnings,2019,5.7,5042,Drama,110,Film,Unrated,-,Moderate,None,Moderate,Moderate,None
 6147,La cara oculta,2011,7.4,40729,Drama; Mystery; Thriller,97,Film,R,-,Severe,Mild,Mild,Mild,Moderate
 6148,Dumb and Dumber To,2014,5.6,133162,Comedy,109,Film,PG-13,-,Moderate,Mild,Moderate,Mild,Mild
 6149,Brawl in Cell Block 99,2017,7.2,62894,Action; Crime; Drama,132,Film,Not Rated,-,Mild,Severe,Moderate,Mild,Severe
