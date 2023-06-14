@@ -45,7 +45,7 @@ def votes_table():
 def genre_table():
     genres = []
     for genre_str in df['Genre']:
-        genre_list = genre_str.split(', ')
+        genre_list = genre_str.split('; ')
         genres.extend(genre_list)
     unique_genres = list(set(genres))
     genre_rate_list = []
